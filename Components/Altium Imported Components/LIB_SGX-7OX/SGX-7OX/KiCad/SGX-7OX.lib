@@ -1,0 +1,23 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model SGX-7OX
+#/13188258/1153913/2.50/2/3/Undefined or Miscellaneous
+DEF SGX-7OX U 0 30 Y Y 1 F N
+F0 "U" 650 300 50 H V L CNN
+F1 "SGX-7OX" 650 200 50 H V L CNN
+F2 "SGX7OX" 650 100 50 H I L CNN
+F3 "https://www.sgxsensortech.com/content/uploads/2019/07/DS-0147-SGX-7OX-datasheet-v7.pdf" 650 0 50 H I L CNN
+F4 "Air Quality Sensors 7 Series O2 sensor 0-25% 2 year life" 650 -100 50 H I L CNN "Description"
+F5 "16.55" 650 -200 50 H I L CNN "Height"
+F6 "" 650 -300 50 H I L CNN "TTi Part Number"
+F7 "" 650 -400 50 H I L CNN "TTi Price/Stock"
+F8 "Amphenol" 650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "SGX-7OX" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X K 1 0 0 200 R 50 50 0 0 P
+X A 2 0 -100 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

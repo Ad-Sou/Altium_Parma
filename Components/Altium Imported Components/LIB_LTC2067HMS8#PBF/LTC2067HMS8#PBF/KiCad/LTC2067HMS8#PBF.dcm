@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTC2067HMS8#PBF
+D Operational Amplifiers - Op Amps 10uA Supply,LowIBIAS ZeroDrift Dual OpAmp
+K
+F https://www.analog.com/media/en/technical-documentation/data-sheets/LTC2066-2067.pdf
+$ENDCMP
+#
+#End Doc Library

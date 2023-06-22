@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LTC2067HDD#PBF'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Analog Devices", "LTC2067HDD#PBF" (!) = "", "SON50P300X300X80-11N-D", "Small Outline No-lead", "584-LTC2067HDD#PBF", "https://www.mouser.com/Search/Refine.aspx?Keyword=584-LTC2067HDD%23PBF", "IC OPAMP ZERO-DRIFT 2 CIRC 10DFN", "https://componentsearchengine.com/Datasheets/1/LTC2067HDD#PBF.pdf", "0.8 mm"
+END_PART
+
+END.

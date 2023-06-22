@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX5523EUA+
+D Maxim MAX5523EUA+, 2-channel 10 bit Serial DAC, 8-Pin uMAX U8CN+1
+K
+F https://pdfserv.maximintegrated.com/en/ds/MAX5522-MAX5525.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MAX5523EUA_'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Analog Devices", "MAX5523EUA+" (!) = "", "SOP65P490X110-8N", "Small Outline Packages", "700-MAX5523EUA", "https://www.mouser.co.uk/ProductDetail/Analog-Devices-Maxim-Integrated/MAX5523EUA%2b?qs=9Cj2FLRihcNj5G7tv6WL1A%3D%3D", "", "", "Maxim MAX5523EUA+, 2-channel 10 bit Serial DAC, 8-Pin uMAX U8CN+1", "https://pdfserv.maximintegrated.com/en/ds/MAX5522-MAX5525.pdf", "1.1 mm"
+END_PART
+
+END.

@@ -1,0 +1,122 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "SGX-7OX"
+   (description "Air Quality Sensors 7 Series O2 sensor 0-25% 2 year life")
+   (family "ANA")
+   (package "SGX7OX")
+   (attribute "Datasheet Link" "https://www.sgxsensortech.com/content/uploads/2019/07/DS-0147-SGX-7OX-datasheet-v7.pdf")
+   (attribute "Geometry.Height" "16.55mm")
+   (attribute "TTi Part Number" "")
+   (attribute "TTi Price/Stock" "")
+   (attribute "Manufacturer_Name" "Amphenol")
+   (attribute "Manufacturer_Part_Number" "SGX-7OX")
+   (gate
+    (symbol "SGX-7OX")
+    (pin "K" 1 PS)
+    (pin "A" 2 PS)
+   )
+  )
+  (symbol "SGX-7OX"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SGX7OX"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -8.25 16.75)
+      (pt 25.25 16.75)
+      (pt 25.25 -16.75)
+      (pt -8.25 -16.75)
+      (pt -8.25 16.75))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 8.5 15.75)
+      (arc (pt 8.500 15.750) (pt -7.250 -15.750) (pt 24.250 15.750) (start 180.0) (sweep 90.0))
+      (pt 8.5 -15.75)
+      (arc (pt 8.500 -15.750) (pt -7.250 -15.750) (pt 24.250 15.750) (start 180.0) (sweep -90.0))
+      (pt 8.5 15.75))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt 8.5 15.75)
+      (arc (pt 8.500 15.750) (pt -7.250 -15.750) (pt 24.250 15.750) (start 180.0) (sweep 90.0))
+      (pt 8.5 -15.75)
+      (arc (pt 8.500 -15.750) (pt -7.250 -15.750) (pt 24.250 15.750) (start 180.0) (sweep -90.0))
+      (pt 8.5 15.75))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -7.8 0)
+      (arc (pt -7.800 0.000) (pt -7.800 -0.050) (pt -7.700 0.050) (start 180.0) (sweep 180.0))
+      (pt -7.7 0)
+      (arc (pt -7.700 0.000) (pt -7.800 -0.050) (pt -7.700 0.050) (start 180.0) (sweep .0))
+      (pt -7.8 0))))
+   (leg 1 (pt 0.000 0.000) (padstack 0))
+   (leg 2 (pt 17.000 0.000) (padstack 2))
+   (leg MH1 (pt 8.500 10.500) (padstack 3))
+   (padstack 0
+    (hole 1.2)
+    (plated true)
+    (pad (layer TCOP) (square 1.800))
+    (pad (layer INNER) (round 1.800))
+    (pad (layer BCOP) (square 1.800))
+   )
+   (padstack 2
+    (hole 1.2)
+    (plated true)
+    (pad (layer TCOP) (round 1.800))
+    (pad (layer INNER) (round 1.800))
+    (pad (layer BCOP) (round 1.800))
+   )
+   (padstack 3
+    (hole 3)
+    (plated false)
+    (pad (layer TCOP) (round 1.500))
+    (pad (layer INNER) (round 1.500))
+    (pad (layer BCOP) (round 1.500))
+   )
+   (model "SGX-7OX.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

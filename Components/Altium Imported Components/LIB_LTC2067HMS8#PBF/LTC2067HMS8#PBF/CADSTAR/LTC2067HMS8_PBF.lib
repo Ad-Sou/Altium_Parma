@@ -1,0 +1,18 @@
+.LTC2067HMS8_PBF :1 ;Operational Amplifiers - Op Amps 10uA Supply,LowIBIAS ZeroDrift Dual OpAmp
+SOP65P490X110-8N
+*STM IC
+*NGS
+*PLB 1="OUTA" 2="-INA" 3="+INA" 4="V-" 5="+INB" 6="-INB" 7="OUTB" 8="V+"
+*MXP 8
+*DFN LTC2067HMS8_PBF
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (LTC2067HMS8#PBF)
+~!Mouser Part Number (584-LTC2067HMS8#PBF)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Analog-Devices/LTC2067HMS8PBF?qs=w%2Fv1CP2dgqrxyuzCOwIzUQ%3D%3D)
+~!Arrow Part Number (LTC2067HMS8#PBF)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/ltc2067hms8pbf/analog-devices)
+~!Link Datasheet (https://www.analog.com/media/en/technical-documentation/data-sheets/LTC2066-2067.pdf)
+~!Height (1.1mm)
+~!3D_Model (LTC2067HMS8#PBF)
+LTC2067HMS8_PBF
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

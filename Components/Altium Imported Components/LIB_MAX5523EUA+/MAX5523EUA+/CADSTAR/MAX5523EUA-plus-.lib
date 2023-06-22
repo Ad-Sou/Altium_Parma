@@ -1,0 +1,18 @@
+.MAX5523EUA-plus- :1 ;Maxim MAX5523EUA+, 2-channel 10 bit Serial DAC, 8-Pin uMAX U8CN+1
+SOP65P490X110-8N
+*STM IC
+*NGS
+*PLB 1="'CS'" 2="SCLK" 3="DIN" 4="REFOUT" 5="OUTB" 6="VDD" 7="GND" 8="OUTA"
+*MXP 8
+*DFN MAX5523EUA-plus-
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (MAX5523EUA+)
+~!Mouser Part Number (700-MAX5523EUA)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Analog-Devices-Maxim-Integrated/MAX5523EUA%2b?qs=9Cj2FLRihcNj5G7tv6WL1A%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://pdfserv.maximintegrated.com/en/ds/MAX5522-MAX5525.pdf)
+~!Height (1.1mm)
+~!3D_Model (MAX5523EUA+)
+MAX5523EUA-plus-
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SGX_7OX'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "TTI_PART_NUMBER", "TTI_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Amphenol", "SGX-7OX" (!) = "", "SGX7OX", "Other", "", "", "Air Quality Sensors 7 Series O2 sensor 0-25% 2 year life", "https://www.sgxsensortech.com/content/uploads/2019/07/DS-0147-SGX-7OX-datasheet-v7.pdf", "16.55 mm"
+END_PART
+
+END.

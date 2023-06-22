@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LTC2067HMS8#PBF'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Analog Devices", "LTC2067HMS8#PBF" (!) = "", "SOP65P490X110-8N", "Small Outline Packages", "584-LTC2067HMS8#PBF", "https://www.mouser.co.uk/ProductDetail/Analog-Devices/LTC2067HMS8PBF?qs=w%2Fv1CP2dgqrxyuzCOwIzUQ%3D%3D", "LTC2067HMS8#PBF", "https://www.arrow.com/en/products/ltc2067hms8pbf/analog-devices", "Operational Amplifiers - Op Amps 10uA Supply,LowIBIAS ZeroDrift Dual OpAmp", "https://www.analog.com/media/en/technical-documentation/data-sheets/LTC2066-2067.pdf", "1.1 mm"
+END_PART
+
+END.

@@ -1,0 +1,16 @@
+.LTC2067HDD_PBF :1 ;IC OPAMP ZERO-DRIFT 2 CIRC 10DFN
+SON50P300X300X80-11N-D
+*STM IC
+*NGS
+*PLB 1="OUTA" 2="-INA" 3="+INA" 4="V-" 5="NC" 6="'SHDN'" 7="+INB" 8="-INB" 9="OUTB" 10="V+" 11="EP"
+*MXP 11
+*DFN LTC2067HDD_PBF
+~!Mouser Part Number (584-LTC2067HDD#PBF)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=584-LTC2067HDD%23PBF)
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (LTC2067HDD#PBF)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/LTC2067HDD#PBF.pdf)
+~!Height (0.8mm)
+~!3D_Model (LTC2067HDD#PBF)
+LTC2067HDD_PBF
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 11.1!U 10.1!U 9.1!U 8.1!U 7.1!U 6.1!U 

@@ -1,0 +1,16 @@
+.SGX-7OX :1 ;Air Quality Sensors 7 Series O2 sensor 0-25% 2 year life
+SGX7OX
+*STM U
+*NGS
+*PLB 1="K" 2="A"
+*MXP 3
+*DFN SGX-7OX
+~!TTi Part Number (-)
+~!TTi Price/Stock (-)
+~!Manufacturer_Name (Amphenol)
+~!Manufacturer_Part_Number (SGX-7OX)
+~!Link Datasheet (https://www.sgxsensortech.com/content/uploads/2019/07/DS-0147-SGX-7OX-datasheet-v7.pdf)
+~!Height (16.55mm)
+~!3D_Model (SGX-7OX)
+SGX-7OX
+1.1!U 2.1!U 

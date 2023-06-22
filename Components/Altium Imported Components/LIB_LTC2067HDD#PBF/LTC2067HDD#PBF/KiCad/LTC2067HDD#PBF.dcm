@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTC2067HDD#PBF
+D IC OPAMP ZERO-DRIFT 2 CIRC 10DFN
+K
+F https://componentsearchengine.com/Datasheets/1/LTC2067HDD#PBF.pdf
+$ENDCMP
+#
+#End Doc Library

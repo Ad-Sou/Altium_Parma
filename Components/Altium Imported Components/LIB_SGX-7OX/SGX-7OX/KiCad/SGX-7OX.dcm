@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SGX-7OX
+D Air Quality Sensors 7 Series O2 sensor 0-25% 2 year life
+K
+F https://www.sgxsensortech.com/content/uploads/2019/07/DS-0147-SGX-7OX-datasheet-v7.pdf
+$ENDCMP
+#
+#End Doc Library

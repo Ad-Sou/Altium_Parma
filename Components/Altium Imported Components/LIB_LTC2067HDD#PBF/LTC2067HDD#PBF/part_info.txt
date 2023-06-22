@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=LTC2067HDD#PBF
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline No-lead
+PinCount=11
+Version=1.1
+Released=2020-02-26 04:27:18
+Downloaded=2023-06-19 17:14:34
+3D=Y

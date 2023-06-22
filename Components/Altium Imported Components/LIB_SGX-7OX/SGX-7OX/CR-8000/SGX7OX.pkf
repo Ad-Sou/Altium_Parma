@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "SGX7OX"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "SGX7OX")
+        (spec "default")
+    )
+)

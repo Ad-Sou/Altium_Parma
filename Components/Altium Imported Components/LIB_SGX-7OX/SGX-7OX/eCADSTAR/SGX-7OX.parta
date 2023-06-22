@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_13188258"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-10-31-12:51:20)
+    (utime 2023-03-21-10:49:22)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "SGX-7OX")
+)
+
+
+(pinAssign "ECS_13188258"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-10-31-12:51:20)
+    (utime 2023-03-21-10:49:22)
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_13188258")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "SGX-7OX")
+)
+
+
+(part "SGX-7OX"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-10-31-12:51:20)
+    (utime 2023-03-21-10:49:22)
+    (packageRef "SGX-7OX")
+    (pinAssignRef "ECS_13188258")
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "U")
+    (property "description" "Air Quality Sensors 7 Series O2 sensor 0-25% 2 year life")
+    (property "TTi_Part_Number" "")
+    (property "TTi_Price/Stock" "")
+    (property "Manufacturer_Name" "Amphenol")
+    (property "Manufacturer_Part_Number" "SGX-7OX")
+    (property "Datasheet_Link" "https://www.sgxsensortech.com/content/uploads/2019/07/DS-0147-SGX-7OX-datasheet-v7.pdf")
+    (property "compAreaTopHeight" 16.55)
+)
+
+

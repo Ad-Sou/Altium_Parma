@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SGX-7OX"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-10-31-12:51:20)
+    (mountForm default
+        (footprintRef "SGX7OX")
+        (spec "System")
+    )
+)
