@@ -1,0 +1,152 @@
+# Created by Ultra Librarian 8.3.331 Copyright © 1999-2021
+# Frank Frank, Accelerated Designs
+
+StartFootprints
+
+Footprint (Name "DQN0004A-MFG")
+Pad (Name "1") (Location -19.8819, 12.9921) (Surface True) (Rotation 0) (ExpandMask -5) (ExpandPaste -4.99214983)
+PadShape (Size 10.98429966, 10.98429966) (Shape Rounded) (Layer Top)
+EndPad
+Pad (Name "2") (Location -19.8819, -12.9921) (Surface True) (Rotation 180) (ExpandMask -5) (ExpandPaste -4.99214983)
+PadShape (Size 10.98429966, 10.98429966) (Shape Rounded) (Layer Top)
+EndPad
+Pad (Name "3") (Location 18.0813, -13.6042) (Surface True) (Rotation 180) (ExpandMask -4.5) (ExpandPaste -4.44119978)
+PadShape (Size 9.88239956, 9.88239956) (Shape Rounded) (Layer Top)
+EndPad
+Pad (Name "4") (Location 18.0813, 13.6042) (Surface True) (Rotation 0) (ExpandMask -4.5) (ExpandPaste -4.44119978)
+PadShape (Size 9.88239956, 9.88239956) (Shape Rounded) (Layer Top)
+EndPad
+Pad (Name "5") (Location 0, 0) (Surface True) (Rotation 315) (ExpandMask -11) (ExpandPaste -10.91730022)
+PadShape (Size 22.83460045, 22.83460045) (Shape Rectangular) (Layer Top)
+EndPad
+Line (Width 5.90549994) (Start -20.6693, -20.6693) (End -20.6693, 20.6693) (Layer Mechanical13) 
+Line (Width 5.90549994) (Start -20.6693, -20.6693) (End 20.6693, -20.6693) (Layer Mechanical13) 
+Line (Width 5.90549994) (Start 20.6693, -20.6693) (End 20.6693, 20.6693) (Layer Mechanical13) 
+Line (Width 5.90549994) (Start -20.6693, 20.6693) (End 20.6693, 20.6693) (Layer Mechanical13) 
+Line (Width 5.90549994) (Start -20.6693, -35.4331) (End 20.6693, -35.4331) (Layer TopOverlay) 
+Line (Width 5.90549994) (Start -20.6693, 35.4331) (End 20.6693, 35.4331) (Layer TopOverlay) 
+Arc (Width 9.84249973) (Radius 4.92129993) (Location -48.2283, 12.7953) (StartAngle 0) (EndAngle 360) (Layer TopOverlay) 
+Text (Location -51, 54) (Height 50) (Width 3) (Rotation 0) (Layer TopOverlay) (Value "Designator9")
+Polygon (PointCount 5) (Layer TopLayer) 
+Point (-25.9843, -19.0945)
+Point (-7.874, -19.0945)
+Point (-7.874, -15.1575)
+Point (-16.1417, -6.8898)
+Point (-25.9843, -6.8898)
+EndPolygon
+Polygon (PointCount 5) (Layer TopLayer) 
+Point (25.9843, 19.0945)
+Point (7.874, 19.0945)
+Point (7.874, 15.1575)
+Point (16.1417, 6.8898)
+Point (25.9843, 6.8898)
+EndPolygon
+Polygon (PointCount 5) (Layer TopLayer) 
+Point (25.9843, -19.0945)
+Point (7.874, -19.0945)
+Point (7.874, -15.1575)
+Point (16.1417, -6.8898)
+Point (25.9843, -6.8898)
+EndPolygon
+Polygon (PointCount 5) (Layer TopLayer) 
+Point (-25.9843, 19.0945)
+Point (-7.874, 19.0945)
+Point (-7.874, 15.1575)
+Point (-16.1417, 6.8898)
+Point (-25.9843, 6.8898)
+EndPolygon
+Polygon (PointCount 5) (Layer TopSolder) 
+Point (-24.0157, -17.126)
+Point (-9.8425, -17.126)
+Point (-9.8425, -15.9449)
+Point (-16.9291, -8.8583)
+Point (-24.0157, -8.8583)
+EndPolygon
+Polygon (PointCount 5) (Layer TopSolder) 
+Point (24.0157, -17.126)
+Point (9.8425, -17.126)
+Point (9.8425, -15.9449)
+Point (16.9291, -8.8583)
+Point (24.0157, -8.8583)
+EndPolygon
+Polygon (PointCount 5) (Layer TopSolder) 
+Point (24.0157, 17.126)
+Point (9.8425, 17.126)
+Point (9.8425, 15.9449)
+Point (16.9291, 8.8583)
+Point (24.0157, 8.8583)
+EndPolygon
+Polygon (PointCount 5) (Layer TopSolder) 
+Point (-24.0157, 17.126)
+Point (-9.8425, 17.126)
+Point (-9.8425, 15.9449)
+Point (-16.9291, 8.8583)
+Point (-24.0157, 8.8583)
+EndPolygon
+Polygon (PointCount 8) (Layer TopSolder) 
+Point (-11.9685, 1.3976)
+Point (-1.3919, 11.9707)
+Point (1.3919, 11.9707)
+Point (11.9707, 1.3919)
+Point (11.9707, -1.3919)
+Point (1.3919, -11.9707)
+Point (-1.3919, -11.9707)
+Point (-11.9707, -1.392)
+EndPolygon
+Polygon (PointCount 5) (Layer TopPaste) 
+Point (25.5906, -17.126)
+Point (9.8425, -17.126)
+Point (9.8425, -15.9449)
+Point (16.9291, -8.8583)
+Point (25.5906, -8.8583)
+EndPolygon
+Polygon (PointCount 5) (Layer TopPaste) 
+Point (-25.5906, -17.126)
+Point (-9.8425, -17.126)
+Point (-9.8425, -15.9449)
+Point (-16.9291, -8.8583)
+Point (-25.5906, -8.8583)
+EndPolygon
+Polygon (PointCount 5) (Layer TopPaste) 
+Point (25.5906, 17.126)
+Point (9.8425, 17.126)
+Point (9.8425, 15.9449)
+Point (16.9291, 8.8583)
+Point (25.5906, 8.8583)
+EndPolygon
+Polygon (PointCount 5) (Layer TopPaste) 
+Point (-25.5906, 17.126)
+Point (-9.8425, 17.126)
+Point (-9.8425, 15.9449)
+Point (-16.9291, 8.8583)
+Point (-25.5906, 8.8583)
+EndPolygon
+Polygon (PointCount 8) (Layer TopPaste) 
+Point (11.1417, -1.3976)
+Point (1.3919, -11.1356)
+Point (-1.3919, -11.1355)
+Point (-11.1356, -1.3919)
+Point (-11.1355, 1.3919)
+Point (-1.3919, 11.1356)
+Point (1.3919, 11.1355)
+Point (11.1356, 1.3919)
+EndPolygon
+EndFootprint
+EndFootprints
+
+StartComponents
+
+Component (Name "TPS7A0215PDQNR") (PartCount 1) (DesPrefix "U?")
+Pin (Location 1400, 0) (Rotation 0) (PinType Power) (Length 200) (Width 0) (Designator Visible "1") (Name Visible "OUT") (PinSwap 0) (PartSwap 0) (PinSeq 1) (Part 1)
+Pin (Location 1400, -200) (Rotation 0) (PinType Power) (Length 200) (Width 0) (Designator Visible "2") (Name Visible "GND") (PinSwap 0) (PartSwap 0) (PinSeq 2) (Part 1)
+Pin (Location 200, -300) (Rotation 180) (PinType Input) (Length 200) (Width 0) (Designator Visible "3") (Name Visible "EN") (PinSwap 0) (PartSwap 0) (PinSeq 3) (Part 1)
+Pin (Location 200, 0) (Rotation 180) (PinType Power) (Length 200) (Width 0) (Designator Visible "4") (Name Visible "IN") (PinSwap 0) (PartSwap 0) (PinSeq 4) (Part 1)
+Pin (Location 1400, -300) (Rotation 0) (PinType Passive) (Length 200) (Width 0) (Designator Visible "5") (Name Visible "Thermal_PAD") (PinSwap 0) (PartSwap 0) (PinSeq 5) (Part 1)
+Rectangle (Width 5) (Start 200, -400) (End 1400, 200) (Part 1)
+Parameter (Name "TYPE") (Location 0, 0) (Height 82) (Rotation 0) (Justification Center) (Value "TYPE") (Part 1)
+Parameter (Name "RefDes") (Location 0, 100) (Height 82) (Rotation 0) (Justification Center) (Value "RefDes") (Part 1)
+Parameter (Name "Mfr_Name") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "Texas Instruments") (Part 1)
+Description (Value "No Description Available") (Part 1)
+Footprint (Name "DQN0004A-MFG")
+EndComponent
+EndComponents

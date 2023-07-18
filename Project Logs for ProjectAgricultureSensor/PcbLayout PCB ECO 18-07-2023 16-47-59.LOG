@@ -1,0 +1,33 @@
+Change Component Footprint: Designator=P_REFOUT_MAX Old Footprint=HDR_1x2_THT_1.27mm New Footprint=CONN_2P_691210910002
+Change Component Comment : Designator=P_REFOUT_MAX Old Comment=Pin header 2p New Comment=691210910002
+Change component parameters: Designator = "P_REFOUT_MAX" ("P_REFOUT_MAX"); Footprint = "HDR_1x2_THT_1.27mm"; UniqueID = "\JFEPKNWC" ("\JFEPKNWC")
+Change component parameters (AddParameter): Name = "Application"; Value = "Rising Cage Clamp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Terminal Blocks"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/691210910002?ad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/691210910002?ad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "691210910002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Match Code"; Value = "WR-TBL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Modularity"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Max"; Value = "105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Horizontal"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Current"; Value = "6A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Working Voltage"; Value = "150V"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin U41-1
+Add Pin To Net: Unknown Pin: Pin U41-2
+Add Pin To Net: Unknown Pin: Pin U41-3
+Add Pin To Net: Unknown Pin: Pin U41-4
+Add Pin To Net: Unknown Pin: Pin U41-5
+Add Pin To Net: Unknown Pin: Pin U41-6
+Add Pin To Net: Unknown Pin: Pin U41-7
+Add Pin To Net: Unknown Pin: Pin U41-8
+Add Pin To Net: Unknown Pin: Pin U41-9
+Added Member To Class: ClassName=AnalogParts Member=Component P_Jumper_GREF 691210910003

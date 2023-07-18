@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=G_High Pin=P279-1
+Removed Pin From Net: NetName=ANALOG9 Pin=P279-2
+Removed Pin From Net: NetName=GRef Pin=P279-3
+Removed Member From Class: ClassName=AnalogParts Member=P279
+Added Component: Designator=J279(CONN HEADER VERT 3POS 2.54MM)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://katalog.we-online.de/em/datasheet/6130xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.69mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61300311121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61300311121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61300311121?qs=PhR8RmCirEYxRWFJzNKsUw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GRef Pin=J279-1
+Added Pin To Net: NetName=ANALOG9 Pin=J279-2
+Added Pin To Net: NetName=G_High Pin=J279-3
+Add Pin To Net: Unknown Pin: Pin U41-1
+Add Pin To Net: Unknown Pin: Pin U41-2
+Add Pin To Net: Unknown Pin: Pin U41-3
+Add Pin To Net: Unknown Pin: Pin U41-4
+Add Pin To Net: Unknown Pin: Pin U41-5
+Add Pin To Net: Unknown Pin: Pin U41-6
+Add Pin To Net: Unknown Pin: Pin U41-7
+Add Pin To Net: Unknown Pin: Pin U41-8
+Add Pin To Net: Unknown Pin: Pin U41-9
+Added Member To Class: ClassName=AnalogParts Member=Component J279 CONN HEADER VERT 3POS 2.54MM

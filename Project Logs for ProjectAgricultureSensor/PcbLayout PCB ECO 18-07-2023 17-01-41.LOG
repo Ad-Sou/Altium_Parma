@@ -1,0 +1,90 @@
+Removed Pin From Net: NetName=G_High Pin=J271-1
+Removed Pin From Net: NetName=G_High Pin=J271-2
+Removed Pin From Net: NetName=G_Low Pin=J272-1
+Removed Pin From Net: NetName=G_Low Pin=J272-2
+Removed Pin From Net: NetName=ANALOG11 Pin=J273-1
+Removed Pin From Net: NetName=ANALOG11 Pin=J273-2
+Removed Pin From Net: NetName=Source Pin=J274-1
+Removed Pin From Net: NetName=Source Pin=J274-2
+Removed Pin From Net: NetName=GND Pin=J275-1
+Removed Pin From Net: NetName=GND Pin=J275-2
+Removed Pin From Net: NetName=GND Pin=J276-1
+Removed Pin From Net: NetName=GND Pin=J276-2
+Removed Pin From Net: NetName=Gate Pin=J277-1
+Removed Pin From Net: NetName=Gate Pin=J277-2
+Removed Pin From Net: NetName=Drain Pin=J278-1
+Removed Pin From Net: NetName=Drain Pin=J278-2
+Removed Pin From Net: NetName=GRef Pin=P_Jumper_GREF-1
+Removed Pin From Net: NetName=ANALOG9 Pin=P_Jumper_GREF-2
+Removed Pin From Net: NetName=G_High Pin=P_Jumper_GREF-3
+Removed Pin From Net: NetName=NetIC25_4 Pin=P_REFOUT_MAX-1
+Removed Pin From Net: NetName=NetIC24_4 Pin=P_REFOUT_MAX-2
+Removed Member From Class: ClassName=AnalogParts Member=J271
+Removed Member From Class: ClassName=AnalogParts Member=J272
+Removed Member From Class: ClassName=AnalogParts Member=J273
+Removed Member From Class: ClassName=AnalogParts Member=J274
+Removed Member From Class: ClassName=AnalogParts Member=J275
+Removed Member From Class: ClassName=AnalogParts Member=J276
+Removed Member From Class: ClassName=AnalogParts Member=J277
+Removed Member From Class: ClassName=AnalogParts Member=J278
+Removed Member From Class: ClassName=AnalogParts Member=P_Jumper_GREF
+Removed Member From Class: ClassName=AnalogParts Member=P_REFOUT_MAX
+Added Component: Designator=P241_REFOUT_MAX(Pin_header_1x2)
+Add component (AddParameter): Name = "Value"; Value = "Pin header 2p"; VariantName = "[No Variations]"
+Added Component: Designator=P279(HDR_1x3_THT_1.27mm)
+Added Component: Designator=P_271(Pin_header_1x2)
+Add component (AddParameter): Name = "Value"; Value = "Pin header 2p"; VariantName = "[No Variations]"
+Added Component: Designator=P_272(Pin_header_1x2)
+Add component (AddParameter): Name = "Value"; Value = "Pin header 2p"; VariantName = "[No Variations]"
+Added Component: Designator=P_273(Pin_header_1x2)
+Add component (AddParameter): Name = "Value"; Value = "Pin header 2p"; VariantName = "[No Variations]"
+Added Component: Designator=P_274(Pin_header_1x2)
+Add component (AddParameter): Name = "Value"; Value = "Pin header 2p"; VariantName = "[No Variations]"
+Added Component: Designator=P_275(Pin_header_1x2)
+Add component (AddParameter): Name = "Value"; Value = "Pin header 2p"; VariantName = "[No Variations]"
+Added Component: Designator=P_276(Pin_header_1x2)
+Add component (AddParameter): Name = "Value"; Value = "Pin header 2p"; VariantName = "[No Variations]"
+Added Component: Designator=P_277(Pin_header_1x2)
+Add component (AddParameter): Name = "Value"; Value = "Pin header 2p"; VariantName = "[No Variations]"
+Added Component: Designator=P_278(Pin_header_1x2)
+Add component (AddParameter): Name = "Value"; Value = "Pin header 2p"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetIC25_4 Pin=P241_REFOUT_MAX-1
+Added Pin To Net: NetName=NetIC24_4 Pin=P241_REFOUT_MAX-2
+Added Pin To Net: NetName=G_High Pin=P279-1
+Added Pin To Net: NetName=ANALOG9 Pin=P279-2
+Added Pin To Net: NetName=GRef Pin=P279-3
+Added Pin To Net: NetName=G_High Pin=P_271-1
+Added Pin To Net: NetName=G_High Pin=P_271-2
+Added Pin To Net: NetName=G_Low Pin=P_272-1
+Added Pin To Net: NetName=G_Low Pin=P_272-2
+Added Pin To Net: NetName=ANALOG11 Pin=P_273-1
+Added Pin To Net: NetName=ANALOG11 Pin=P_273-2
+Added Pin To Net: NetName=Source Pin=P_274-1
+Added Pin To Net: NetName=Source Pin=P_274-2
+Added Pin To Net: NetName=GND Pin=P_275-1
+Added Pin To Net: NetName=GND Pin=P_275-2
+Added Pin To Net: NetName=GND Pin=P_276-1
+Added Pin To Net: NetName=GND Pin=P_276-2
+Added Pin To Net: NetName=Gate Pin=P_277-1
+Added Pin To Net: NetName=Gate Pin=P_277-2
+Added Pin To Net: NetName=Drain Pin=P_278-1
+Added Pin To Net: NetName=Drain Pin=P_278-2
+Add Pin To Net: Unknown Pin: Pin U41-1
+Add Pin To Net: Unknown Pin: Pin U41-2
+Add Pin To Net: Unknown Pin: Pin U41-3
+Add Pin To Net: Unknown Pin: Pin U41-4
+Add Pin To Net: Unknown Pin: Pin U41-5
+Add Pin To Net: Unknown Pin: Pin U41-6
+Add Pin To Net: Unknown Pin: Pin U41-7
+Add Pin To Net: Unknown Pin: Pin U41-8
+Add Pin To Net: Unknown Pin: Pin U41-9
+Added Member To Class: ClassName=AnalogParts Member=Component P241_REFOUT_MAX Pin header 2p
+Added Member To Class: ClassName=AnalogParts Member=Component P279 Pin Header 1x3 THT 1.27mm
+Added Member To Class: ClassName=AnalogParts Member=Component P_271 Pin header 2p
+Added Member To Class: ClassName=AnalogParts Member=Component P_272 Pin header 2p
+Added Member To Class: ClassName=AnalogParts Member=Component P_273 Pin header 2p
+Added Member To Class: ClassName=AnalogParts Member=Component P_274 Pin header 2p
+Added Member To Class: ClassName=AnalogParts Member=Component P_275 Pin header 2p
+Added Member To Class: ClassName=AnalogParts Member=Component P_276 Pin header 2p
+Added Member To Class: ClassName=AnalogParts Member=Component P_277 Pin header 2p
+Added Member To Class: ClassName=AnalogParts Member=Component P_278 Pin header 2p
