@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=VDD_USB Pin=IN_USB_1-1
+Removed Pin From Net: NetName=GND Pin=IN_USB_1-2
+Removed Member From Class: ClassName=PowerElectronics Member=IN_USB_1
+Removed Member From Class: ClassName=PowerElectronics Member=IN_USB_100
+Added Component: Designator=U100(47346-0001_MOL)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Molex Connector Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDD_USB Pin=U100-1
+Added Pin To Net: NetName=GND Pin=U100-5
+Added Member To Class: ClassName=PowerElectronics Member=Component U100 473460001

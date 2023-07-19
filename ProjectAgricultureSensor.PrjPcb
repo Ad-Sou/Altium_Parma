@@ -233,7 +233,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PDUQSVOV
 
 [Document12]
 DocumentPath=Library\TPS7A0215PDQNR.SchLib
@@ -523,6 +523,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for ProjectAgricultureSensor\Design Rule Check - PcbLayout.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources

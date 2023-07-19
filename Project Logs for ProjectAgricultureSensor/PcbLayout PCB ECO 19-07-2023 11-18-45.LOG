@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=U41 Old Footprint=PCBComponent_1 New Footprint=TSNP-9-3_INF
+Added Pin To Net: NetName=3V3 Pin=LD3-3
+Added Pin To Net: NetName=3V3 Pin=LD3-4
+Added Pin To Net: NetName=3V3 Pin=P31-1
+Added Pin To Net: NetName=3V3 Pin=R341-2
+Added Pin To Net: NetName=NetC402_2 Pin=U41-1
+Added Pin To Net: NetName=NetC411_2 Pin=U41-2
+Added Pin To Net: NetName=NetC431_2 Pin=U41-3
+Added Pin To Net: NetName=NetC452_2 Pin=U41-4
+Added Pin To Net: NetName=NetC421_2 Pin=U41-5
+Added Pin To Net: NetName=GND Pin=U41-6
+Added Pin To Net: NetName=NetC403_2 Pin=U41-7
+Added Pin To Net: NetName=NetC401_2 Pin=U41-8
+Added Pin To Net: NetName=GND Pin=U41-9

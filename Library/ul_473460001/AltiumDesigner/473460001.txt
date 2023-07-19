@@ -1,0 +1,80 @@
+# Created by Ultra Librarian 8.3.331 Copyright © 1999-2021
+# Frank Frank, Accelerated Designs
+
+StartFootprints
+
+Footprint (Name "47346-0001_MOL")
+Pad (Name "1") (Location -51.1811, 101.58270264) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 18, 54) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "2") (Location -25.5905, 101.58270264) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 18, 54) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "3") (Location 0, 101.58270264) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 18, 54) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "4") (Location 25.5905, 101.58270264) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 18, 54) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "5") (Location 51.1811, 101.58270264) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 18, 54) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "6") (Location -97.9331, 98.23620264) (Surface True) (Rotation 90) (ExpandMask -30.5) (ExpandPaste -30.5)
+PadShape (Size 56, 61) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "7") (Location 97.9331, 98.23620264) (Surface True) (Rotation 90) (ExpandMask -30.5) (ExpandPaste -30.5)
+PadShape (Size 56, 61) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "8") (Location -132.874, -3.14169736) (Surface True) (Rotation 90) (ExpandMask -32.5) (ExpandPaste -32.5)
+PadShape (Size 65, 51) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "9") (Location 132.874, -3.14169736) (Surface True) (Rotation 90) (ExpandMask -32.5) (ExpandPaste -32.5)
+PadShape (Size 65, 51) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "10") (Location -45.27558899, -3.14170074) (Surface True) (Rotation 0) (ExpandMask -37.5) (ExpandPaste -37.5)
+PadShape (Size 71, 75) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "11") (Location 61, -3.14170074) (Surface True) (Rotation 0) (ExpandMask -37.5) (ExpandPaste -37.5)
+PadShape (Size 39, 75) (Shape Rectangular) (Layer Top)
+EndPad
+Line (Width 6) (Start -175.37399292, 138.7362442) (End -175.37399292, -123) (Layer Mechanical15) 
+Line (Width 6) (Start -175.37399292, -123) (End 175.37399292, -123) (Layer Mechanical15) 
+Line (Width 6) (Start 175.37399292, -123) (End 175.37399292, 138.7362442) (Layer Mechanical15) 
+Line (Width 6) (Start 175.37399292, 138.7362442) (End -175.37399292, 138.7362442) (Layer Mechanical15) 
+Polygon (PointCount 4) (Layer Mechanical15) 
+Point (-175.37399292, 138.7362442)
+Point (-175.37399292, -123)
+Point (175.37399292, -123)
+Point (175.37399292, 138.7362442)
+EndPolygon
+Line (Width 6) (Start 117, 42.45830302) (End 117, 57.13620226) (Layer TopOverlay) 
+Line (Width 6) (Start -117, -118) (End 117, -118) (Layer TopOverlay) 
+Line (Width 6) (Start 117, -118) (End 117, -48.74169774) (Layer TopOverlay) 
+Line (Width 6) (Start -117, 57.13620226) (End -117, 42.45830302) (Layer TopOverlay) 
+Line (Width 6) (Start -117, -48.74169774) (End -117, -118) (Layer TopOverlay) 
+Arc (Width 20) (Radius 15) (Location -187, 101.58270264) (StartAngle 0) (EndAngle 360) (Layer TopOverlay) 
+Line (Width 1) (Start -112, -113) (End 112, -113) (Layer Mechanical13) 
+Line (Width 1) (Start 112, -113) (End 112, 113.00002289) (Layer Mechanical13) 
+Line (Width 1) (Start 112, 113.00002289) (End -112, 113.00002289) (Layer Mechanical13) 
+Line (Width 1) (Start -112, 113.00002289) (End -112, -113) (Layer Mechanical13) 
+Arc (Width 20) (Radius 15) (Location -51.18109894, 26.58270264) (StartAngle 0) (EndAngle 360) (Layer Mechanical13) 
+Arc (Width 20) (Radius 15) (Location -187, 101.58270264) (StartAngle 0) (EndAngle 360) (Layer BottomOverlay) 
+EndFootprint
+EndFootprints
+
+StartComponents
+
+Component (Name "473460001") (PartCount 1) (DesPrefix "U?")
+Pin (Location 300, 0) (Rotation 180) (PinType Passive) (Length 300) (Width 0) (Designator Visible "1") (Name Visible "VBUS") (PinSwap 0) (PartSwap 0) (PinSeq 1) (Part 1)
+Pin (Location 300, -100) (Rotation 180) (PinType Passive) (Length 300) (Width 0) (Designator Visible "2") (Name Visible "D-") (PinSwap 0) (PartSwap 0) (PinSeq 2) (Part 1)
+Pin (Location 1300, -200) (Rotation 0) (PinType Passive) (Length 300) (Width 0) (Designator Visible "3") (Name Visible "D+") (PinSwap 0) (PartSwap 0) (PinSeq 3) (Part 1)
+Pin (Location 1300, -100) (Rotation 0) (PinType Passive) (Length 300) (Width 0) (Designator Visible "4") (Name Visible "ID") (PinSwap 0) (PartSwap 0) (PinSeq 4) (Part 1)
+Pin (Location 1300, 0) (Rotation 0) (PinType Power) (Length 300) (Width 0) (Designator Visible "5") (Name Visible "GND") (PinSwap 0) (PartSwap 0) (PinSeq 5) (Part 1)
+Rectangle (Width 5) (Start 300, -400) (End 1300, 200) (Part 1)
+Parameter (Name "Mfr_Name") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "Molex Connector Corporation") (Part 1)
+Parameter (Name "RefDes") (Location 800, 400) (Height 82) (Rotation 0) (Justification Center) (Value "RefDes") (Part 1)
+Parameter (Name "Type") (Location 800, 300) (Height 82) (Rotation 0) (Justification Center) (Value "Type") (Part 1)
+Description (Value "No Description Available") (Part 1)
+Footprint (Name "47346-0001_MOL")
+EndComponent
+EndComponents
