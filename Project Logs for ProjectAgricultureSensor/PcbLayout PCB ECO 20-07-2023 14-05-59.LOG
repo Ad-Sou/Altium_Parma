@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=G_Low Pin=IC24-5
+Removed Pin From Net: NetName=G_High Pin=IC24-8
+Removed Pin From Net: NetName=Source Pin=IC25-5
+Removed Pin From Net: NetName=ANALOG11 Pin=IC25-8
+Removed Pin From Net: NetName=Gate Pin=IC231-2
+Removed Pin From Net: NetName=Drain Pin=IC231-8
+Removed Pin From Net: NetName=G_High Pin=P_271-1
+Removed Pin From Net: NetName=G_Low Pin=P_272-1
+Removed Pin From Net: NetName=ANALOG11 Pin=P_273-1
+Removed Pin From Net: NetName=Source Pin=P_274-1
+Removed Pin From Net: NetName=Gate Pin=P_277-2
+Removed Pin From Net: NetName=Drain Pin=P_278-2
+Added Pin To Net: NetName=DRef_IN Pin=IC25-8
+Added Pin To Net: NetName=DRef_IN Pin=P_273-1
+Added Net: Name=DRef_IN
+Added Pin To Net: NetName=G_High_IN Pin=IC24-8
+Added Pin To Net: NetName=G_High_IN Pin=P_271-1
+Added Net: Name=G_High_IN
+Added Pin To Net: NetName=G_Low_IN Pin=IC24-5
+Added Pin To Net: NetName=G_Low_IN Pin=P_272-1
+Added Net: Name=G_Low_IN
+Added Pin To Net: NetName=IN_Drain_Minus Pin=IC231-8
+Added Pin To Net: NetName=IN_Drain_Minus Pin=P_278-2
+Added Net: Name=IN_Drain_Minus
+Added Pin To Net: NetName=In_Gate_Minus Pin=IC231-2
+Added Pin To Net: NetName=In_Gate_Minus Pin=P_277-2
+Added Net: Name=In_Gate_Minus
+Added Pin To Net: NetName=Source_IN Pin=IC25-5
+Added Pin To Net: NetName=Source_IN Pin=P_274-1
+Added Net: Name=Source_IN
